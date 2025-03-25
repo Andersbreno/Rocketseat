@@ -1,0 +1,191 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+    --font-primary: "Staatliches", sans-serif;
+    --font-secondary: "Poppins", sans-serif;
+    --color-primary: #535971;
+    --color-button: #FF5374;
+    --color-box-form: #EFEFEF;
+}
+
+body {
+    font-family: var(--font-primary);
+    background: #E5E5E5;
+}
+
+.page {
+    width: 750px;
+    margin: auto;
+}
+
+header {
+    background-color: var(--color-primary);
+    color: #ffffff;
+    width: 42rem;
+}
+
+header p {
+    font-size: 2rem;
+    padding-bottom: 5.5rem;
+}
+
+h1 {
+    font-size: 4.8rem;
+    font-weight: normal;
+    padding: 14rem 0rem 1.8rem;
+}
+
+p {
+    font-family: var(--font-secondary);
+}
+
+body::before {
+    content: '';
+    width: 100%;
+    height: 43.5rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: var(--color-primary);
+}
+
+
+form {
+    background-color: #ffffff; 
+    border-radius: 2rem 2em 0rem 0rem;
+    padding: 6.4rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    
+}
+
+fieldset {
+    border: none;
+}
+
+fieldset legend {
+    font-size: 2.4rem;
+    font-weight: normal;
+    color: var(--color-primary);
+    border-bottom: 1px solid var(--color-primary);
+    line-height: 3.5rem;
+    width: 100%;
+}
+
+.fieldset {
+    display: flex;
+    flex-direction: column;
+}
+
+.nameLine {
+    display: flex;
+    gap: 2rem;
+}
+
+.input {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.input label {
+    font-family: var(--font-secondary);
+    font-size: 1.4rem;
+    color: #4E4958;
+    margin-top: 3.5rem;
+}
+
+.input input {
+
+    font-family: var(--font-secondary);
+    margin-top: 1rem;
+    height: 5.5rem;
+    background: #FAFAFC;   
+    border: 1px solid #E6E6F0;
+    border-radius: .8rem;
+    padding: 1rem;
+}
+
+.input span {
+    font-size: 1.2rem;
+    color: #C1BCCC;
+}
+
+input:focus + label::before {
+    outline: 50px solid black;
+}
+
+fieldset h2 {
+    line-height: 3.5rem;
+    color: var(--color-primary);
+    font-size: 2rem;
+    font-weight: normal;
+    margin-top: 1rem;
+}
+
+.calendar {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+.calendar .input {
+    flex: initial;
+    width: 40%;
+}
+
+.calendar > div:nth-child(1) {
+    width: 100%;
+}
+
+.calendar input[type="time"], .calendar input[type="date"] {
+    color: transparent;
+    
+}
+
+.calendar input[type="time"]::-webkit-calendar-picker-indicator , .calendar input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+
+}
+
+.send {
+    background-color: var(--color-primary);
+    height: 16rem;
+
+    display: flex;
+    flex-direction: column;
+    
+    padding: 58px 50px;
+    margin-bottom: 35rem;
+    border-radius: 0px 0px 20px 20px;
+
+}
+
+.button {
+    font-family: var(--font-primary);
+    font-size: 2rem;
+    color: var(--color-box-form);
+
+    border: none;
+    border-radius: 20px;
+    background-color: var(--color-button);
+    padding: 1rem;
+}
+
+.button:hover {
+    background-color: #d63f5d;
+}
+
