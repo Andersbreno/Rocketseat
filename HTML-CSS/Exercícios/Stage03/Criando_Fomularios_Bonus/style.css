@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+    --font-primary: ;
+    --font-secondary: ;
+    --font-min: ;
+    --color-header: #293241;
+    --color-body: #BFD7E4;
+    --color-form: #F67669;
+    --color-body-form: #FFFFFF;
+}
+
+body {
+    background: var(--color-body);
+}
