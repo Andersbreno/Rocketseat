@@ -8,9 +8,8 @@
 
 :root {
     font-size: 62.5%;
-    --font-primary: ;
-    --font-secondary: ;
-    --font-min: ;
+    --font-primary: "Staatliches", sans-serif;
+    --font-secondary: "Poppins", sans-serif;
     --color-header: #293241;
     --color-body: #BFD7E4;
     --color-form: #F67669;
@@ -19,4 +18,204 @@
 
 body {
     background: var(--color-body);
+    font-family: var(--font-secondary);
+    font-weight: normal;
+}
+
+header {
+    max-width: 46rem;
+    margin: 0 auto;
+    color: var(--color-body-form);
+    text-align: center;
+}
+
+h1 {
+    font-family: var(--font-primary);
+    font-size: 3.5rem;
+    font-weight: normal;
+    margin-top: 10.7rem;
+}
+
+p {
+    font-size: 1.6rem;    
+    margin-bottom: 2.5rem;
+}
+
+img {
+    margin-bottom: 3.2rem;
+}
+
+body::before {
+    content: '';
+    width: 144rem;
+    height: 47rem;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: var(--color-header);
+}
+
+form {
+    background: var(--color-body-form);
+    margin: 0 auto;
+    max-width: 75rem;
+    padding: 6.4rem;
+    border-radius: 2rem;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    
+}
+
+form > fieldset:nth-child(1) > div > legend {
+    font-family: var(--font-primary);
+    font-size: 2.4rem;
+    color: var(--color-body-form);
+    text-align: center;
+    
+    background-color: var(--color-form);
+    
+    height: 13.3rem;
+    padding: 5rem;
+    margin: -6.4rem -6.4rem 0; 
+    border-radius: 2rem 2rem 0 0;
+}
+
+.flex-user {
+    display: flex;
+    gap: 2rem;
+}
+
+fieldset {
+    border: none;
+}
+
+fieldset legend {
+    font-family: var(--font-primary);
+    font-size: 2.4rem;
+    font-weight: normal;
+    line-height: 3.5rem;
+    text-align: center;
+    border-bottom: 1px solid #E6E6F0;
+}
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.input-wrapper label {
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    margin-top: 3rem;
+    color: #4E4958;
+    margin-bottom: 8px;
+}
+
+.input-wrapper input {
+    font-family: var(--font-secondary);
+    height: 5.5rem;
+    border: 1px solid #E6E6F0;
+    border-radius: 8px;
+    background: #FAFAFC;
+    padding: 1rem;
+    
+}
+
+.input-wrapper select {
+    font-family: var(--font-secondary);
+    appearance: none;
+    height: 5.5rem;
+    width: 30rem;
+    padding: 1rem;
+    border: 1px solid #E6E6F0;
+    border-radius: 8px;
+    background: #FAFAFC;
+}
+
+textarea {
+    border: 1px solid #E6E6F0;
+    border-radius: 8px;
+    height: 16.5rem;
+    background: #FAFAFC;
+}
+
+.checkbox {
+    position: relative;
+    margin-top: 3rem;
+}
+
+.checkbox label{
+    display: flex;
+    font-size: 1.4rem;
+    align-items: center;
+    margin: 0;
+    gap: 1rem;
+    cursor: pointer;
+    flex-wrap: nowrap;
+}
+
+.checkbox input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2.4rem;
+    height: 2.4rem;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.checkbox label::before {
+    content: '';
+    width: 2.4rem;
+    height: 2.4rem;
+    
+    border: 1px solid #E6E6F0;
+    background: #FAFAFC;
+    
+    display: inline-block;
+    border-radius: .8rem;
+}
+
+.checkbox input:checked + label::before {
+    background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_6009_23)'%3E%3Cpath d='M9 16.17L4.83 12L3.41 13.41L9 19L21 7L19.59 5.59L9 16.17Z' fill='%2342D3FF'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_6009_23'%3E%3Crect width='24' height='24' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");
+    background-size: contain;
+}
+
+.checkbox input:focus + label::before {
+    outline: 2px solid black;
+}
+
+.flex-hour {
+    display: flex;
+    gap: 3.2rem;
+}
+
+.flex-hour > div > input {
+    color: transparent;
+}
+
+.flex-hour > div > input::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+}
+
+.send input {
+    font-family: var(--font-primary);
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: 2rem;
+    color: var(--color-body-form);
+    background-color: var(--color-form);
+    border: none;
+    border-radius: .8rem;
+
+    margin-top: calc(6.4rem - 3rem);
+    width: 100%;
+    height: 5rem;
 }
