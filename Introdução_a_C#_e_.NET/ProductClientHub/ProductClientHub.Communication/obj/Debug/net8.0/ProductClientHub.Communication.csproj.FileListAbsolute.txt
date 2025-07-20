@@ -1,0 +1,12 @@
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.deps.json
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfo.cs
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.sourcelink.json
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\ander\Documents\estudos\Rocketseat\Introdução_a_C#_e_.NET\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
