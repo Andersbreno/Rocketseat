@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4690CECB-A9E2-423F-A840-973A6591DB68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.communication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4690CECB-A9E2-423F-A840-973A6591DB68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\Class1.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\Class1.cs",
-              "RelativeToolTip": "ProductClientHub.Exceptions\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T14:00:16.041Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:287256601:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Communication\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Class1.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Communication\\Class1.cs",
-              "RelativeToolTip": "ProductClientHub.Communication\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs*",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:59:30.779Z"
+              "WhenOpened": "2025-07-22T23:00:37.942Z",
+              "EditorCaption": ""
             }
           ]
         }
