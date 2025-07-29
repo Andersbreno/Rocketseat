@@ -6,8 +6,33 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
+    "Parameters": [
+      {
+        "Name": "resquest",
+        "Type": "ProductClientHub.Communication.Requests.RequestClientJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductClientHub.Communication.Responses.ResponseClientJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "ProductClientHub.Communication.Responses.ResponseErrorMessagesJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
   },
   {
     "ContainingType": "ProductClientHub.API.Controllers.ClientsController",
@@ -42,7 +67,7 @@
   {
     "ContainingType": "ProductClientHub.API.Controllers.ClientsController",
     "Method": "GetById",
-    "RelativePath": "api/Clients/{id}/welisson/{sobrenome}",
+    "RelativePath": "api/Clients/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -50,11 +75,6 @@
       {
         "Name": "id",
         "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "sobrenome",
-        "Type": "System.String",
         "IsRequired": true
       }
     ],
