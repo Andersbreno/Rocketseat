@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4690CECB-A9E2-423F-A840-973A6591DB68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4690CECB-A9E2-423F-A840-973A6591DB68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\productclientshubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\productclientshubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.api\\filters\\excepitonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\filters\\excepitonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.api\\usecases\\clients\\register\\registerclientusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\register\\registerclientusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\productclientshubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\productclientshubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900A8172-93D2-4989-B0F7-D652345874A7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\ander\\documents\\estudos\\rocketseat\\introdu\u00E7\u00E3o_a_c#_e_.net\\productclienthub\\productclienthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8654519-2304-48FB-82CE-222F1E0A0A57}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,73 +41,99 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:287256601:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ResponseErrorMessagesJson.cs",
               "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
               "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs*",
-              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T23:15:24.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs*",
-              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAvwB0AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ExcepitonFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Filters\\ExcepitonFilter.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Filters\\ExcepitonFilter.cs",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Filters\\ExcepitonFilter.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Filters\\ExcepitonFilter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T23:07:46.396Z",
+              "WhenOpened": "2025-07-30T00:35:54.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegisterClientUseCases.cs",
               "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCases.cs",
               "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCases.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCases.cs*",
-              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCases.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCases.cs",
+              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCases.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T22:59:42.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:07:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ProductClientsHubException.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:57:50.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ErrorOnValidationException.cs",
               "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
               "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs*",
-              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T22:59:07.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductClientsHubException.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs",
-              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs*",
-              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientsHubException.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwAkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ander\\Documents\\estudos\\Rocketseat\\Introdu\u00E7\u00E3o_a_C#_e_.NET\\ProductClientHub\\ProductClientHub.API\\Program.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T22:57:50.467Z",
+              "WhenOpened": "2025-07-30T00:39:47.367Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:287256601:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             }
           ]
         }

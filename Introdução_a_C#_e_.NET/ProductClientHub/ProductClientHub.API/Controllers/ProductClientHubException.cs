@@ -15,5 +15,15 @@ namespace ProductClientHub.API.Controllers
         public ProductClientHubException(string? message, Exception? innerException) : base(message, innerException)
         {
         }
+
+        internal string GetErrors()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal int GetHttpStatusCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
